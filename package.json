@@ -1,0 +1,13 @@
+{
+  "dependencies": {
+    "@octokit/core": "^5.1.0",
+    "@octokit/plugin-paginate-rest": "^9.1.5",
+    "dotenv": "^16.4.4",
+    "shelljs": "^0.8.5",
+    "tsx": "^4.7.1"
+  },
+  "devDependencies": {
+    "@types/node": "^20.11.19",
+    "@types/shelljs": "^0.8.15"
+  }
+}
